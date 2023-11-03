@@ -1,8 +1,8 @@
-package animalLandSimulation.entities;
+package ua.javarush.entity;
 
-import animalLandSimulation.basis.Animal;
-import animalLandSimulation.basis.Land;
-import animalLandSimulation.basis.Organism;
+import ua.javarush.basis.Animal;
+import ua.javarush.basis.Land;
+import ua.javarush.basis.Organism;
 
 import java.awt.*;
 

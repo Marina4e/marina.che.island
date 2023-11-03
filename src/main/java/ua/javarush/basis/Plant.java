@@ -1,4 +1,4 @@
-package animalLandSimulation.basis;
+package ua.javarush.basis;
 
 import java.awt.*;
 import java.util.Random;

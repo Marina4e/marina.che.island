@@ -1,6 +1,5 @@
-package animalLandSimulation.basis;
-
-import animalLandSimulation.entities.*;
+package ua.javarush.basis;
+import ua.javarush.entity.*;
 
 import javax.swing.*;
 import javax.swing.text.JTextComponent;
@@ -159,7 +158,6 @@ public class Land extends JPanel {
     public int getCircle() {
         return circle;
     }
-
 
 }
 

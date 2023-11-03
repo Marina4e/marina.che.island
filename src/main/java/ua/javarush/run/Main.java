@@ -1,7 +1,7 @@
-package animalLandSimulation.run;
+package ua.javarush.run;
 
-import animalLandSimulation.basis.Land;
-import animalLandSimulation.threads.PlantGrowthThread;
+import ua.javarush.basis.Land;
+import ua.javarush.thread.PlantGrowthThread;
 
 import javax.swing.*;
 import javax.swing.text.JTextComponent;

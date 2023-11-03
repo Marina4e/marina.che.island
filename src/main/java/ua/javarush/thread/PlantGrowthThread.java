@@ -1,8 +1,8 @@
-package animalLandSimulation.threads;
+package ua.javarush.thread;
 
-import animalLandSimulation.basis.Land;
-import animalLandSimulation.entities.Aloe;
-import animalLandSimulation.entities.Grass;
+import ua.javarush.basis.Land;
+import ua.javarush.entity.Aloe;
+import ua.javarush.entity.Grass;
 
 import javax.swing.*;
 import java.util.Random;
